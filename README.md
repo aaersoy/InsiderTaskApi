@@ -1,1 +1,1 @@
-<li><code>Java 11</code></li>
+<li>Java 11</li>
